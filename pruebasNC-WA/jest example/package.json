@@ -1,0 +1,19 @@
+{
+  "name": "jest-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "node-fetch": "^2.7.0"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "description": ""
+}

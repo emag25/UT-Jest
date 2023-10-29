@@ -1,0 +1,22 @@
+{
+    "account": [
+        {
+            "id": 1022,
+            "name": "Magallanes Cars",
+            "description": "Taxi services",
+            "balance": 200000
+        },
+        {
+            "id": 1023,
+            "name": "Guayaquil Bank",
+            "description": "Your bank",
+            "balance": 500000
+        },
+        {
+            "id": 1024,
+            "name": "Carls Jr",
+            "description": "Your favorite fast food restaurant",
+            "balance": 90000
+        }
+    ]
+}
